@@ -1,0 +1,6 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Mini Clock
+Exec=/home/snoopy/projects/mini_clock/clock
+Icon=/home/snoopy/projects/mini_clock/clock.svg
+Type=Application
